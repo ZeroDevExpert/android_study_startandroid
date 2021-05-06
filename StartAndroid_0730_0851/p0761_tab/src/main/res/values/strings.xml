@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P0761_Tab</string>
+    <string name="text_tab1">This is 1 tab</string>
+    <string name="text_tab2">This is 2 tab</string>
+    <string name="text_tab3">This is 3 tab</string>
+    <string name="text_tab_header">My text</string>
+</resources>

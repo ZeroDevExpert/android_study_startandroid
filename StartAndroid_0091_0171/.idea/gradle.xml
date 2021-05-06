@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0091_onclickbuttons" />
+            <option value="$PROJECT_DIR$/p0101_listener" />
+            <option value="$PROJECT_DIR$/p0102_activitylistener" />
+            <option value="$PROJECT_DIR$/p0111_resvalues" />
+            <option value="$PROJECT_DIR$/p0121_logandmess" />
+            <option value="$PROJECT_DIR$/p0131_menusimple" />
+            <option value="$PROJECT_DIR$/p0141_menuadv" />
+            <option value="$PROJECT_DIR$/p0151_contexmenu" />
+            <option value="$PROJECT_DIR$/p0161_dynamiclayout" />
+            <option value="$PROJECT_DIR$/p0171_dynamiclayout2" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0091_onclickbuttons" />
+            <option value="$PROJECT_DIR$/p0101_listener" />
+            <option value="$PROJECT_DIR$/p0102_activitylistener" />
+            <option value="$PROJECT_DIR$/p0111_resvalues" />
+            <option value="$PROJECT_DIR$/p0121_logandmess" />
+            <option value="$PROJECT_DIR$/p0131_menusimple" />
+            <option value="$PROJECT_DIR$/p0141_menuadv" />
+            <option value="$PROJECT_DIR$/p0151_contexmenu" />
+            <option value="$PROJECT_DIR$/p0161_dynamiclayout" />
+            <option value="$PROJECT_DIR$/p0171_dynamiclayout2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

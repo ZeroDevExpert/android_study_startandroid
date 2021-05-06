@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p073_preferencesenable" />
+            <option value="$PROJECT_DIR$/p074_preferencescode" />
+            <option value="$PROJECT_DIR$/p0751_files" />
+            <option value="$PROJECT_DIR$/p0761_tab" />
+            <option value="$PROJECT_DIR$/p0791_xmlpullparser" />
+            <option value="$PROJECT_DIR$/p0801_handler" />
+            <option value="$PROJECT_DIR$/p0811_handlersimplemessage" />
+            <option value="$PROJECT_DIR$/p0821_handleradvmessage" />
+            <option value="$PROJECT_DIR$/p0841_handlerrunnable" />
+            <option value="$PROJECT_DIR$/p0851_runnableuithread" />
+            <option value="$PROJECT_DIR$/p_0831_handlermessagemanage" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

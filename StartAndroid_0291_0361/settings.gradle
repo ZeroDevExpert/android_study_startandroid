@@ -1,0 +1,1 @@
+include ':app', ':p0291_simpleactivityresult', ':p0301_activityresult', ':p0311_simpleintents', ':p0321_simplebrowser', ':p0331_sharedpreferences', ':p0341_simplesqlite', ':p0351_simp_sql2', ':p0361_sqlquery'

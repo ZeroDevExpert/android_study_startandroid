@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P0151_ContextMenu</string>
+    <string name="colorText">Push for edit color</string>
+    <string name="sizeText">Push for edit size</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P1121_DynamicActionBar</string>
+    <string name="add_del">add/del</string>
+    <string name="visible">show/hide</string>
+    <string name="fragment">Fragment</string>
+    <string name="frag1_text">Fragment 1</string>
+    <string name="frag2_text">Fragment 2</string>
+    <string name="menu_item_1">Item-1</string>
+    <string name="menu_item_2">Item-2</string>
+    <string name="menu_item_31">Item-31</string>
+    <string name="menu_item_32">Item-32</string>
+</resources>

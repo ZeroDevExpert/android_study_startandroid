@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p1121_dynamicactionbar" />
+            <option value="$PROJECT_DIR$/p1271_soundpool" />
+            <option value="$PROJECT_DIR$/p1281_audiofocus" />
+            <option value="$PROJECT_DIR$/p1291_mediarecorderaudio" />
+            <option value="$PROJECT_DIR$/p1301_audiorecorder" />
+            <option value="$PROJECT_DIR$/p1311_cameraintent" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

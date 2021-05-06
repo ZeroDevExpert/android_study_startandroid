@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid8.iml" filepath="$PROJECT_DIR$/StartAndroid8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0641_alertdialogitemsmulti/p0641_alertdialogitemsmulti.iml" filepath="$PROJECT_DIR$/p0641_alertdialogitemsmulti/p0641_alertdialogitemsmulti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0651_alertdialogcustom/p0651_alertdialogcustom.iml" filepath="$PROJECT_DIR$/p0651_alertdialogcustom/p0651_alertdialogcustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0661_alertdialogoperations/p0661_alertdialogoperations.iml" filepath="$PROJECT_DIR$/p0661_alertdialogoperations/p0661_alertdialogoperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0671_progressdialog/p0671_progressdialog.iml" filepath="$PROJECT_DIR$/p0671_progressdialog/p0671_progressdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0681_parcel/p0681_parcel.iml" filepath="$PROJECT_DIR$/p0681_parcel/p0681_parcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0691_parcelable/p0691_parcelable.iml" filepath="$PROJECT_DIR$/p0691_parcelable/p0691_parcelable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0701_saveinstancestate/p0701_saveinstancestate.iml" filepath="$PROJECT_DIR$/p0701_saveinstancestate/p0701_saveinstancestate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0711_preferencessimple/p0711_preferencessimple.iml" filepath="$PROJECT_DIR$/p0711_preferencessimple/p0711_preferencessimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0721_preferencesimple2/p0721_preferencesimple2.iml" filepath="$PROJECT_DIR$/p0721_preferencesimple2/p0721_preferencesimple2.iml" />
+    </modules>
+  </component>
+</project>

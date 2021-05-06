@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid12.iml" filepath="$PROJECT_DIR$/StartAndroid12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1121_dynamicactionbar/p1121_dynamicactionbar.iml" filepath="$PROJECT_DIR$/p1121_dynamicactionbar/p1121_dynamicactionbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1271_soundpool/p1271_soundpool.iml" filepath="$PROJECT_DIR$/p1271_soundpool/p1271_soundpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1281_audiofocus/p1281_audiofocus.iml" filepath="$PROJECT_DIR$/p1281_audiofocus/p1281_audiofocus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1291_mediarecorderaudio/p1291_mediarecorderaudio.iml" filepath="$PROJECT_DIR$/p1291_mediarecorderaudio/p1291_mediarecorderaudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1301_audiorecorder/p1301_audiorecorder.iml" filepath="$PROJECT_DIR$/p1301_audiorecorder/p1301_audiorecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1311_cameraintent/p1311_cameraintent.iml" filepath="$PROJECT_DIR$/p1311_cameraintent/p1311_cameraintent.iml" />
+    </modules>
+  </component>
+</project>

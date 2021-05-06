@@ -1,0 +1,1 @@
+include ':app', ':p0461_expandablelistevents', ':p0481_simpleadapter', ':p0491_simpleadaptercustom1', ':p0501_simpleadaptercustom2', ':p0511_simpleadapterdata', ':p0521_simplecursoradapter', ':p0531_simplecursortreeadapter', ':p0541_customadapter'

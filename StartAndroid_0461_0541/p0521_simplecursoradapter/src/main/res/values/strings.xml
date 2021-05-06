@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P0521_SimpleCursorAdapter</string>
+    <string name="add_record">add record</string>
+    <string name="remove_record">remove record</string>
+</resources>

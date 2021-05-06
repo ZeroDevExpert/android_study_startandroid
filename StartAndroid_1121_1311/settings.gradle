@@ -1,0 +1,1 @@
+include ':app', ':p1121_dynamicactionbar', ':p1271_soundpool', ':p1281_audiofocus', ':p1291_mediarecorderaudio', ':p1301_audiorecorder', ':p1311_cameraintent'

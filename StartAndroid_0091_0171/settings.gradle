@@ -1,0 +1,1 @@
+include ':app', ':p0091_onclickbuttons', ':p0101_listener', ':p0102_activitylistener', ':p0111_resvalues', ':p0121_logandmess', ':p0131_menusimple', ':p0141_menuadv', ':p0151_contexmenu', ':p0161_dynamiclayout', ':p0171_dynamiclayout2'

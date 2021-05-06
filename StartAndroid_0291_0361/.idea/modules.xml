@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid4.iml" filepath="$PROJECT_DIR$/StartAndroid4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0291_simpleactivityresult/p0291_simpleactivityresult.iml" filepath="$PROJECT_DIR$/p0291_simpleactivityresult/p0291_simpleactivityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0301_activityresult/p0301_activityresult.iml" filepath="$PROJECT_DIR$/p0301_activityresult/p0301_activityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0311_simpleintents/p0311_simpleintents.iml" filepath="$PROJECT_DIR$/p0311_simpleintents/p0311_simpleintents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0321_simplebrowser/p0321_simplebrowser.iml" filepath="$PROJECT_DIR$/p0321_simplebrowser/p0321_simplebrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0331_sharedpreferences/p0331_sharedpreferences.iml" filepath="$PROJECT_DIR$/p0331_sharedpreferences/p0331_sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0341_simplesqlite/p0341_simplesqlite.iml" filepath="$PROJECT_DIR$/p0341_simplesqlite/p0341_simplesqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0351_simp_sql2/p0351_simp_sql2.iml" filepath="$PROJECT_DIR$/p0351_simp_sql2/p0351_simp_sql2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0361_sqlquery/p0361_sqlquery.iml" filepath="$PROJECT_DIR$/p0361_sqlquery/p0361_sqlquery.iml" />
+    </modules>
+  </component>
+</project>

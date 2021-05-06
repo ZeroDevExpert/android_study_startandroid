@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid6.iml" filepath="$PROJECT_DIR$/StartAndroid6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid6.iml" filepath="$PROJECT_DIR$/StartAndroid6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app-app.iml" filepath="$PROJECT_DIR$/app/app-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0461_expandablelistevents/p0461_expandablelistevents.iml" filepath="$PROJECT_DIR$/p0461_expandablelistevents/p0461_expandablelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0461_expandablelistevents/p0461_expandablelistevents.iml" filepath="$PROJECT_DIR$/p0461_expandablelistevents/p0461_expandablelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0481_simpleadapter/p0481_simpleadapter.iml" filepath="$PROJECT_DIR$/p0481_simpleadapter/p0481_simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0481_simpleadapter/p0481_simpleadapter.iml" filepath="$PROJECT_DIR$/p0481_simpleadapter/p0481_simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0491_simpleadaptercustom1/p0491_simpleadaptercustom1.iml" filepath="$PROJECT_DIR$/p0491_simpleadaptercustom1/p0491_simpleadaptercustom1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0491_simpleadaptercustom1/p0491_simpleadaptercustom1.iml" filepath="$PROJECT_DIR$/p0491_simpleadaptercustom1/p0491_simpleadaptercustom1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0501_simpleadaptercustom2/p0501_simpleadaptercustom2.iml" filepath="$PROJECT_DIR$/p0501_simpleadaptercustom2/p0501_simpleadaptercustom2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0501_simpleadaptercustom2/p0501_simpleadaptercustom2.iml" filepath="$PROJECT_DIR$/p0501_simpleadaptercustom2/p0501_simpleadaptercustom2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0511_simpleadapterdata/p0511_simpleadapterdata.iml" filepath="$PROJECT_DIR$/p0511_simpleadapterdata/p0511_simpleadapterdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0511_simpleadapterdata/p0511_simpleadapterdata.iml" filepath="$PROJECT_DIR$/p0511_simpleadapterdata/p0511_simpleadapterdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0511_simpleadapterdata2/p0511_simpleadapterdata2.iml" filepath="$PROJECT_DIR$/p0511_simpleadapterdata2/p0511_simpleadapterdata2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0521_simplecursoradapter/p0521_simplecursoradapter.iml" filepath="$PROJECT_DIR$/p0521_simplecursoradapter/p0521_simplecursoradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0521_simplecursoradapter/p0521_simplecursoradapter.iml" filepath="$PROJECT_DIR$/p0521_simplecursoradapter/p0521_simplecursoradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0531_simplecursortreeadapter/p0531_simplecursortreeadapter.iml" filepath="$PROJECT_DIR$/p0531_simplecursortreeadapter/p0531_simplecursortreeadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0531_simplecursortreeadapter/p0531_simplecursortreeadapter.iml" filepath="$PROJECT_DIR$/p0531_simplecursortreeadapter/p0531_simplecursortreeadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0541_customadapter/p0541_customadapter.iml" filepath="$PROJECT_DIR$/p0541_customadapter/p0541_customadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0541_customadapter/p0541_customadapter.iml" filepath="$PROJECT_DIR$/p0541_customadapter/p0541_customadapter.iml" />
+    </modules>
+  </component>
+</project>

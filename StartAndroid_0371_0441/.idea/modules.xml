@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid5.iml" filepath="$PROJECT_DIR$/StartAndroid5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid5.iml" filepath="$PROJECT_DIR$/StartAndroid5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0371_sqliteinnerjoin/p0371_sqliteinnerjoin.iml" filepath="$PROJECT_DIR$/p0371_sqliteinnerjoin/p0371_sqliteinnerjoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0371_sqliteinnerjoin/p0371_sqliteinnerjoin.iml" filepath="$PROJECT_DIR$/p0371_sqliteinnerjoin/p0371_sqliteinnerjoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0381_sqlitetransaction/p0381_sqlitetransaction.iml" filepath="$PROJECT_DIR$/p0381_sqlitetransaction/p0381_sqlitetransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0381_sqlitetransaction/p0381_sqlitetransaction.iml" filepath="$PROJECT_DIR$/p0381_sqlitetransaction/p0381_sqlitetransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0391_sqliteonupgradedb/p0391_sqliteonupgradedb.iml" filepath="$PROJECT_DIR$/p0391_sqliteonupgradedb/p0391_sqliteonupgradedb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0391_sqliteonupgradedb/p0391_sqliteonupgradedb.iml" filepath="$PROJECT_DIR$/p0391_sqliteonupgradedb/p0391_sqliteonupgradedb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0401_layoutinflater/p0401_layoutinflater.iml" filepath="$PROJECT_DIR$/p0401_layoutinflater/p0401_layoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0401_layoutinflater/p0401_layoutinflater.iml" filepath="$PROJECT_DIR$/p0401_layoutinflater/p0401_layoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0411_layoutinflaterlist/p0411_layoutinflaterlist.iml" filepath="$PROJECT_DIR$/p0411_layoutinflaterlist/p0411_layoutinflaterlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0411_layoutinflaterlist/p0411_layoutinflaterlist.iml" filepath="$PROJECT_DIR$/p0411_layoutinflaterlist/p0411_layoutinflaterlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0421_simplelist/p0421_simplelist.iml" filepath="$PROJECT_DIR$/p0421_simplelist/p0421_simplelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0421_simplelist/p0421_simplelist.iml" filepath="$PROJECT_DIR$/p0421_simplelist/p0421_simplelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0431_simplelistchoice/p0431_simplelistchoice.iml" filepath="$PROJECT_DIR$/p0431_simplelistchoice/p0431_simplelistchoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0431_simplelistchoice/p0431_simplelistchoice.iml" filepath="$PROJECT_DIR$/p0431_simplelistchoice/p0431_simplelistchoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0441_simplelistevents/p0441_simplelistevents.iml" filepath="$PROJECT_DIR$/p0441_simplelistevents/p0441_simplelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0441_simplelistevents/p0441_simplelistevents.iml" filepath="$PROJECT_DIR$/p0441_simplelistevents/p0441_simplelistevents.iml" />
+    </modules>
+  </component>
+</project>

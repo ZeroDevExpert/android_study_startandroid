@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P0671_ProgressDialog</string>
+    <string name="dflt">Normal</string>
+    <string name="horiz">Horizontal</string>
+</resources>

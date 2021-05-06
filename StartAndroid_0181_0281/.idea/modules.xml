@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid3.iml" filepath="$PROJECT_DIR$/StartAndroid3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0181_dynamiclayout32/p0181_dynamiclayout32.iml" filepath="$PROJECT_DIR$/p0181_dynamiclayout32/p0181_dynamiclayout32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0191_simplecalculator/p0191_simplecalculator.iml" filepath="$PROJECT_DIR$/p0191_simplecalculator/p0191_simplecalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0201_simpleanimation/p0201_simpleanimation.iml" filepath="$PROJECT_DIR$/p0201_simpleanimation/p0201_simpleanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0211_twoactivity/p0211_twoactivity.iml" filepath="$PROJECT_DIR$/p0211_twoactivity/p0211_twoactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0231_activitylifecykle/p0231_activitylifecykle.iml" filepath="$PROJECT_DIR$/p0231_activitylifecykle/p0231_activitylifecykle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0241_twoactivitystate/p0241_twoactivitystate.iml" filepath="$PROJECT_DIR$/p0241_twoactivitystate/p0241_twoactivitystate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0261_intentfilter/p0261_intentfilter.iml" filepath="$PROJECT_DIR$/p0261_intentfilter/p0261_intentfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0271_getintentaction/p0271_getintentaction.iml" filepath="$PROJECT_DIR$/p0271_getintentaction/p0271_getintentaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0281_intentextras/p0281_intentextras.iml" filepath="$PROJECT_DIR$/p0281_intentextras/p0281_intentextras.iml" />
+    </modules>
+  </component>
+</project>

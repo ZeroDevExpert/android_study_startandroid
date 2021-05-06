@@ -1,0 +1,1 @@
+include ':app', ':p0371_sqliteinnerjoin', ':p0381_sqlitetransaction', ':p0391_sqliteonupgradedb', ':p0401_layoutinflater', ':p0411_layoutinflaterlist', ':p0421_simplelist', ':p0431_simplelistchoice', ':p0441_simplelistevents'

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/p0641_alertdialogitemsmulti" />
+            <option value="$PROJECT_DIR$/p0651_alertdialogcustom" />
+            <option value="$PROJECT_DIR$/p0661_alertdialogoperations" />
+            <option value="$PROJECT_DIR$/p0671_progressdialog" />
+            <option value="$PROJECT_DIR$/p0681_parcel" />
+            <option value="$PROJECT_DIR$/p0691_parcelable" />
+            <option value="$PROJECT_DIR$/p0701_saveinstancestate" />
+            <option value="$PROJECT_DIR$/p0711_preferencessimple" />
+            <option value="$PROJECT_DIR$/p0721_preferencesimple2" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

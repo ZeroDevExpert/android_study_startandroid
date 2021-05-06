@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0871_asynctaskparams" />
+            <option value="$PROJECT_DIR$/p0881_asynctaskresult" />
+            <option value="$PROJECT_DIR$/p0891_asynctaskcancel" />
+            <option value="$PROJECT_DIR$/p0901_asynctaskstatus" />
+            <option value="$PROJECT_DIR$/p0911_asynctaskrotate" />
+            <option value="$PROJECT_DIR$/p0921_servicesimple" />
+            <option value="$PROJECT_DIR$/p0931_servicestop" />
+            <option value="$PROJECT_DIR$/p0941_servicekillclient" />
+            <option value="$PROJECT_DIR$/p0942_servicekillserver" />
+            <option value="$PROJECT_DIR$/p0951_servicebackpendingintent" />
+            <option value="$PROJECT_DIR$/p0961_servicebroadcast" />
+            <option value="$PROJECT_DIR$/p0971_servicebindclient" />
+            <option value="$PROJECT_DIR$/p0972_servicebindservice" />
+            <option value="$PROJECT_DIR$/p0981_servicebindinglocal" />
+            <option value="$PROJECT_DIR$/p0991_servicenotification" />
+            <option value="$PROJECT_DIR$/p1011_contentprovider" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':p1021_touch', ':p1031_multitouch', ':p1041_fragmentlifecycle', ':p1051_fragmentdymanic', ':p1061_fragmentactivity', ':p1071_actionbaritems', ':p1081_actionbarnavigation', ':p1091_listfragment', ':p1101_dialogfragment', ':p1111_preferencefragment'

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P0861_AsyncTask.iml" filepath="$PROJECT_DIR$/P0861_AsyncTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0871_asynctaskparams/p0871_asynctaskparams.iml" filepath="$PROJECT_DIR$/p0871_asynctaskparams/p0871_asynctaskparams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0881_asynctaskresult/p0881_asynctaskresult.iml" filepath="$PROJECT_DIR$/p0881_asynctaskresult/p0881_asynctaskresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0891_asynctaskcancel/p0891_asynctaskcancel.iml" filepath="$PROJECT_DIR$/p0891_asynctaskcancel/p0891_asynctaskcancel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0901_asynctaskstatus/p0901_asynctaskstatus.iml" filepath="$PROJECT_DIR$/p0901_asynctaskstatus/p0901_asynctaskstatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0911_asynctaskrotate/p0911_asynctaskrotate.iml" filepath="$PROJECT_DIR$/p0911_asynctaskrotate/p0911_asynctaskrotate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0921_servicesimple/p0921_servicesimple.iml" filepath="$PROJECT_DIR$/p0921_servicesimple/p0921_servicesimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0931_servicestop/p0931_servicestop.iml" filepath="$PROJECT_DIR$/p0931_servicestop/p0931_servicestop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0941_servicekillclient/p0941_servicekillclient.iml" filepath="$PROJECT_DIR$/p0941_servicekillclient/p0941_servicekillclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0942_servicekillserver/p0942_servicekillserver.iml" filepath="$PROJECT_DIR$/p0942_servicekillserver/p0942_servicekillserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0942_servicekillserver2/p0942_servicekillserver2.iml" filepath="$PROJECT_DIR$/p0942_servicekillserver2/p0942_servicekillserver2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0951_servicebackpendingintent/p0951_servicebackpendingintent.iml" filepath="$PROJECT_DIR$/p0951_servicebackpendingintent/p0951_servicebackpendingintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0961_servicebroadcast/p0961_servicebroadcast.iml" filepath="$PROJECT_DIR$/p0961_servicebroadcast/p0961_servicebroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0971_servicebindclient/p0971_servicebindclient.iml" filepath="$PROJECT_DIR$/p0971_servicebindclient/p0971_servicebindclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0972_servicebindservice/p0972_servicebindservice.iml" filepath="$PROJECT_DIR$/p0972_servicebindservice/p0972_servicebindservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0981_servicebindinglocal/p0981_servicebindinglocal.iml" filepath="$PROJECT_DIR$/p0981_servicebindinglocal/p0981_servicebindinglocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0991_servicenotification/p0991_servicenotification.iml" filepath="$PROJECT_DIR$/p0991_servicenotification/p0991_servicenotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1011_contentprovider/p1011_contentprovider.iml" filepath="$PROJECT_DIR$/p1011_contentprovider/p1011_contentprovider.iml" />
+    </modules>
+  </component>
+</project>

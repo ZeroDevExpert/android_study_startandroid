@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid9.iml" filepath="$PROJECT_DIR$/StartAndroid9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p073_preferencesenable/p073_preferencesenable.iml" filepath="$PROJECT_DIR$/p073_preferencesenable/p073_preferencesenable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p074_preferencescode/p074_preferencescode.iml" filepath="$PROJECT_DIR$/p074_preferencescode/p074_preferencescode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0751_files/p0751_files.iml" filepath="$PROJECT_DIR$/p0751_files/p0751_files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0761_tab/p0761_tab.iml" filepath="$PROJECT_DIR$/p0761_tab/p0761_tab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0791_xmlpullparser/p0791_xmlpullparser.iml" filepath="$PROJECT_DIR$/p0791_xmlpullparser/p0791_xmlpullparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0801_handler/p0801_handler.iml" filepath="$PROJECT_DIR$/p0801_handler/p0801_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0811_handlersimplemessage/p0811_handlersimplemessage.iml" filepath="$PROJECT_DIR$/p0811_handlersimplemessage/p0811_handlersimplemessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0821_handleradvmessage/p0821_handleradvmessage.iml" filepath="$PROJECT_DIR$/p0821_handleradvmessage/p0821_handleradvmessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0841_handlerrunnable/p0841_handlerrunnable.iml" filepath="$PROJECT_DIR$/p0841_handlerrunnable/p0841_handlerrunnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0851_runnableuithread/p0851_runnableuithread.iml" filepath="$PROJECT_DIR$/p0851_runnableuithread/p0851_runnableuithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p_0831_handlermessagemanage/p_0831_handlermessagemanage.iml" filepath="$PROJECT_DIR$/p_0831_handlermessagemanage/p_0831_handlermessagemanage.iml" />
+    </modules>
+  </component>
+</project>

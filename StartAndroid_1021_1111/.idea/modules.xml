@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid11.iml" filepath="$PROJECT_DIR$/StartAndroid11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1021_touch/p1021_touch.iml" filepath="$PROJECT_DIR$/p1021_touch/p1021_touch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1031_multitouch/p1031_multitouch.iml" filepath="$PROJECT_DIR$/p1031_multitouch/p1031_multitouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1041_fragmentlifecycle/p1041_fragmentlifecycle.iml" filepath="$PROJECT_DIR$/p1041_fragmentlifecycle/p1041_fragmentlifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1051_fragmentdymanic/p1051_fragmentdymanic.iml" filepath="$PROJECT_DIR$/p1051_fragmentdymanic/p1051_fragmentdymanic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1061_fragmentactivity/p1061_fragmentactivity.iml" filepath="$PROJECT_DIR$/p1061_fragmentactivity/p1061_fragmentactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1071_actionbaritems/p1071_actionbaritems.iml" filepath="$PROJECT_DIR$/p1071_actionbaritems/p1071_actionbaritems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1081_actionbarnavigation/p1081_actionbarnavigation.iml" filepath="$PROJECT_DIR$/p1081_actionbarnavigation/p1081_actionbarnavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1091_listfragment/p1091_listfragment.iml" filepath="$PROJECT_DIR$/p1091_listfragment/p1091_listfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1101_dialogfragment/p1101_dialogfragment.iml" filepath="$PROJECT_DIR$/p1101_dialogfragment/p1101_dialogfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1111_preferencefragment/p1111_preferencefragment.iml" filepath="$PROJECT_DIR$/p1111_preferencefragment/p1111_preferencefragment.iml" />
+    </modules>
+  </component>
+</project>

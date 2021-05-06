@@ -1,0 +1,1 @@
+include ':app', ':p0181_dynamiclayout32', ':p0191_simplecalculator', ':p0201_simpleanimation', ':p0211_twoactivity', ':p0231_activitylifecykle', ':p0241_twoactivitystate', ':p0261_intentfilter', ':p0271_getintentaction', ':p0281_intentextras'

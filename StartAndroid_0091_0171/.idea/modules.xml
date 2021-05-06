@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0091_onclickbuttons/p0091_onclickbuttons.iml" filepath="$PROJECT_DIR$/p0091_onclickbuttons/p0091_onclickbuttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0101_listener/p0101_listener.iml" filepath="$PROJECT_DIR$/p0101_listener/p0101_listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0102_activitylistener/p0102_activitylistener.iml" filepath="$PROJECT_DIR$/p0102_activitylistener/p0102_activitylistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0111_resvalues/p0111_resvalues.iml" filepath="$PROJECT_DIR$/p0111_resvalues/p0111_resvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0121_logandmess/p0121_logandmess.iml" filepath="$PROJECT_DIR$/p0121_logandmess/p0121_logandmess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0131_menusimple/p0131_menusimple.iml" filepath="$PROJECT_DIR$/p0131_menusimple/p0131_menusimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" filepath="$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0151_contexmenu/p0151_contexmenu.iml" filepath="$PROJECT_DIR$/p0151_contexmenu/p0151_contexmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0161_dynamiclayout/p0161_dynamiclayout.iml" filepath="$PROJECT_DIR$/p0161_dynamiclayout/p0161_dynamiclayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0171_dynamiclayout2/p0171_dynamiclayout2.iml" filepath="$PROJECT_DIR$/p0171_dynamiclayout2/p0171_dynamiclayout2.iml" />
+    </modules>
+  </component>
+</project>
